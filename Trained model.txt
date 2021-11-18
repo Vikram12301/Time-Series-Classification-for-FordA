@@ -1,2 +1,2 @@
-The trained SVM model
+The link for trained SVM model
 https://drive.google.com/file/d/1fugbTVWHY7bw40C3DchwWZRF7uzBH83P/view?usp=sharing
