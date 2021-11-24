@@ -15,3 +15,7 @@ Most methods for time series classification that attain state-of-the-art accurac
 (https://github.com/Vikram12301/Time-Series-Classification-for-FordA/tree/main/Models/DL)
 
 **Accuracy** 97%
+
+## Reference
+1.https://towardsdatascience.com/a-brief-introduction-to-time-series-classification-algorithms-7b4284d31b97
+2.https://pub.towardsai.net/rocket-fast-and-accurate-time-series-classification-f54923ad0ac9
