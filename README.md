@@ -1,7 +1,7 @@
 # Time-Series-Classification-for-FordA
 
 # Dataset
-The dataset is a part of the competition [lyft challenge](https://www.udacity.com/lyft-challenge)
+The dataset is a part of the competition [lyft challenge](http://www.timeseriesclassification.com/description.php?Dataset=FordA)
 
 # Models
 ## ROCKET: Exceptionally fast and accurate time series classification using random convolutional kernels.
