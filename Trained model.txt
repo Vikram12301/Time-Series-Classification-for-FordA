@@ -1,2 +1,5 @@
-The link for trained SVM model
-https://drive.google.com/file/d/1fugbTVWHY7bw40C3DchwWZRF7uzBH83P/view?usp=sharing
+The link for trained model using CNN:
+https://drive.google.com/file/d/1yioIJProgWiTzizxaVhtyM9lAs9QtkV8/view?usp=sharing
+
+The link for trained model using Ridge Classifier:
+https://drive.google.com/file/d/1Pu9td6kcbjkD2r1oq8UrpK__BH_mBNFh/view?usp=sharing
