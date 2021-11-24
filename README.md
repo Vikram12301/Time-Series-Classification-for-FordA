@@ -1,7 +1,7 @@
 # Time-Series-Classification-for-FordA
 
 # Dataset
-The dataset is a part of the competition which is available in [http://www.timeseriesclassification.com/](http://www.timeseriesclassification.com/description.php?Dataset=FordA)
+The dataset is a part of the competition which is available in [timeseriesclassification](http://www.timeseriesclassification.com/description.php?Dataset=FordA)
 
 # Models
 ## ROCKET: Exceptionally fast and accurate time series classification using random convolutional kernels.
