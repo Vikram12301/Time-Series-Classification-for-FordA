@@ -1,5 +1,8 @@
 # Time-Series-Classification-for-FordA
 
+# What it does?
+The model is used to detect if there is any error in the engine of a car with the sound of its engine!
+
 # Dataset
 The dataset is a part of the competition which is available in [timeseriesclassification](http://www.timeseriesclassification.com/description.php?Dataset=FordA)
 
